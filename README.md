@@ -151,10 +151,10 @@ Power BI dashboards were built directly on curated Gold tables and focus on **op
 ### Dashboard Screenshots
 
 #### Claims Overview
-![Claims Overview](powerbi/screenshots/claim_overview.png)
+![Claims Overview](powerbi/claim_overview.png)
 
 #### Manager & Efficiency
-![Manager Efficiency](powerbi/screenshots/manager_efficiency.png)
+![Manager Efficiency](powerbi/manager_efficiency.png)
 
 ---
 
@@ -170,8 +170,8 @@ insurance-claims-analytics/
 │ ├── 04_register_gold_tables.ipynb
 │ └── 05_optimize_and_benchmark_factclaim.ipynb
 ├── powerbi/
-│ ├── screenshots/
-│ └── dashboard_description.md
+│ ├── claim_overview.png
+│ └── manager_efficiency.png
 ├── docs/
 │ ├── data_model.md
 │ ├── kpi_definitions.md
